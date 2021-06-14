@@ -13,6 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello world");
             Console.WriteLine("Novo");
             Console.WriteLine("novo2");
+            Console.WriteLine("ovo je dodao uređivač");
            
         }
     }
